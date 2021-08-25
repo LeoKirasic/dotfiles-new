@@ -192,7 +192,7 @@ gaps inner 15
 gaps outer 15
 
 # Window compositor
-exec_always picom -f
+# exec_always picom -f
 
 # Removes title bar
 for_window [class="^.*"] border pixel 1
