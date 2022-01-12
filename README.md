@@ -1,4 +1,5 @@
 # DOTFILES
+### Dotfiles no longer supported nor used. [Current dots](https://github.com/LeoKirasic/dots)
 ![rice](https://user-images.githubusercontent.com/24303451/127498337-c06d516b-39f7-495b-b1e0-8368520828ba.png)
 
 # CREDITS
